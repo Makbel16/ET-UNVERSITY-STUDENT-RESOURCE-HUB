@@ -219,7 +219,7 @@ Database concepts revolve around storage, retrieval, and schema integrity:
     return `### Object-Oriented Programming (OOP) in Java
 OOP is built on four core pillars:
 1. **Encapsulation**: Hiding internal state by providing getters/setters.
-2. **Inheritance**: Creating hierarchical relationships (`extends` keyword).
+2. **Inheritance**: Creating hierarchical relationships (\`extends\` keyword).
 3. **Polymorphism**: Overriding methods to customize behavior.
 4. **Abstraction**: Hiding structural details using Interfaces and Abstract classes.
 
