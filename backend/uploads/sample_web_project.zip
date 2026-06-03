@@ -1,0 +1,7 @@
+EthioStudyHub - Web Programming final project source code zip package.
+Contains:
+- client/ (React source files)
+- server/ (Express & MongoDB database connectors)
+- config/ (Environment and database parameters)
+- README.md (Setup instructions)
+- package.json
